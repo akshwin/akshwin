@@ -2,8 +2,7 @@
 <h1 align ="center">
   HI EVERYONE 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <br>
-This is Akshwin
+  <hr>
 </h1>
 
 <div id="header" align="center">
