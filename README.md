@@ -30,4 +30,4 @@
 - :seedling: I code in JAVA , C , C++ , PYHTON.
 
 - :zap: I'm also an aspiring Full Stack Web Developer and Full Stack Data Scientist
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshwin-t-681395219)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshwin-t-681395219)
