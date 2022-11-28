@@ -31,3 +31,5 @@
 
 - :zap: I'm also an aspiring Full Stack Web Developer and Full Stack Data Scientist
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshwin-t-681395219)
+
+### :hammer_and_wrench: Languages and Tools :
