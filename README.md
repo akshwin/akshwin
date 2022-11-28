@@ -49,9 +49,8 @@
 
 </div>
 <hr>
-   :fire: My Stats :<br>
- 
-  <br>
+   :fire: My Stats 
+   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
   <br>
   <br>
@@ -60,3 +59,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshwin&show_icons=true&locale=en" alt="akshwin" /></p>
 
 <hr>
+</div>
