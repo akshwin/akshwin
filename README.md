@@ -47,11 +47,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   
 
-  
+</div>
 <hr>
-   :fire: My Stats :
-   <br>
-  <br>
+   :fire: My Stats :<br>
+ 
   <br>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
   <br>
