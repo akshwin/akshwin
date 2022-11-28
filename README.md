@@ -5,7 +5,7 @@
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/2QpnSwLwr9fkDtiN4m/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
 
  Soial Plugins📱
