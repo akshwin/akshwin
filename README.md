@@ -6,7 +6,7 @@
 
  Soial Plugins📱
 
-<div id="header">
+<div id="header" align = "center">
   <a href="https://www.linkedin.com/in/akshwin-t-681395219">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" class ="center" alt="LinkedIn Badge"/>
   </a>
