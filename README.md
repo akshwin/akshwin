@@ -57,6 +57,13 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
   <br>
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshwin&" alt="akshwin" /></p>
+   
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshwin&show_icons=true&locale=en&layout=compact" alt="akshwin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshwin&show_icons=true&locale=en" alt="akshwin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshwin&" alt="akshwin" /></p>
+
 
 <hr>
 </div>
