@@ -58,11 +58,7 @@
     
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshwin&show_icons=true&locale=en&layout=compact" alt="akshwin" /></p>
 
-<p>&nbsp;
 <br>
-
-
-
 
 <hr>
 </div>
