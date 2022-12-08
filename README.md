@@ -51,13 +51,13 @@
 <hr>
    :fire: My Stats 
 <br>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshwin&" alt="akshwin" /></p>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshwin&show_icons=true&theme=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshwin&theme=white)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshwin&" alt="akshwin" /></p>
+
 
 
 
