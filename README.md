@@ -54,6 +54,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshwin&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshwin&theme=tokyonight)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshwin&" alt="akshwin" /></p>
 
