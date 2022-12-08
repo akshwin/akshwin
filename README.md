@@ -52,7 +52,7 @@
    :fire: My Stats 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshwin&show_icons=true&theme=tokyonight)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshwin&" alt="akshwin" /></p>
