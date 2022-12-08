@@ -50,7 +50,7 @@
 </div>
 <hr>
    :fire: My Stats 
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshwin&show_icons=true&locale=en" alt="akshwin" /></p>
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akshwin&show_icons=true&locale=en" alt="akshwin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshwin&" alt="akshwin" /></p>
 
