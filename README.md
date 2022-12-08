@@ -52,7 +52,7 @@
    :fire: My Stats 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshwin&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshwin&show_icons=true&theme=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshwin&theme=tokyonight)
 
