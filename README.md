@@ -2,11 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Akshwin</h1>
-<h1 align ="center">
-
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<h3 align="center">A passionate Frontend Web developer and Upcoming Full Stack Data Scientist</h3>
+<h3 align="center">I'm a passionate Frontend Web developer and Upcoming Full Stack Data Scientist</h3>
 
 - :zap: I'm also an aspiring Full Stack Web Developer and Full Stack Data Scientist
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshwin-t-681395219)
