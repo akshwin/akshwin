@@ -4,10 +4,9 @@
 <h1 align="center">Hi 👋, I'm Akshwin</h1>
 <h3 align="center">I'm a CSE Undergrad at Vellore Institute of Technology </h3>
 
-- :zap: I'm a passionate Frontend Developer and Upcoming Full Stack Developer
+- :zap: I'm a passionate Frontend Developer and Upcoming Full Stack Data Scientist
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshwin-t-681395219)
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshwin&label=Profile%20views&color=0e75b6&style=flat" alt="akshwin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshwin" alt="akshwin" /></a> </p>
