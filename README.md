@@ -1,9 +1,5 @@
 
-- :zap: I'm also an aspiring Full Stack Web Developer and Full Stack Data Scientist
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshwin-t-681395219)
-- <a href="https://twitter.com/akshwin_2003">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+
 
 <h1 align="center">Hi 👋, I'm Akshwin</h1>
 <h1 align ="center">
@@ -12,6 +8,11 @@
 </h1>
 <h3 align="center">A passionate Frontend Web developer and Upcoming Full Stack Data Scientist</h3>
 
+- :zap: I'm also an aspiring Full Stack Web Developer and Full Stack Data Scientist
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshwin-t-681395219)
+- <a href="https://twitter.com/akshwin_2003">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshwin&label=Profile%20views&color=0e75b6&style=flat" alt="akshwin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshwin" alt="akshwin" /></a> </p>
