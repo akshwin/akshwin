@@ -10,7 +10,6 @@
 
 - :zap: I'm also an aspiring Full Stack Web Developer and Full Stack Data Scientist
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshwin-t-681395219)
-- <a href="https://twitter.com/akshwin_2003">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshwin&label=Profile%20views&color=0e75b6&style=flat" alt="akshwin" /> </p>
@@ -45,9 +44,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshwin&" alt="akshwin" /></p>
 <hr>
 
-###:hammer_and_wrench: Languages and Tools :
-
-<div>
 
 
 
