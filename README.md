@@ -2,9 +2,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Akshwin</h1>
-<h3 align="center">I'm a passionate Frontend Web developer and Upcoming Full Stack Data Scientist</h3>
+<h3 align="center">I'm a CSE Undergrad at Vellore Institute of Technology </h3>
 
-- :zap: I'm also an aspiring Full Stack Web Developer and Full Stack Data Scientist
+- :zap: I'm a passionate Frontend Developer and Upcoming Full Stack Developer
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshwin-t-681395219)
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
