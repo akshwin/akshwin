@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg" alt="web" width="400" height ="400" />
 
-<p align="right"> <img src="https://www.123rf.com/photo_140426907_ai-machine-learning-hands-of-robot-and-human-touching-on-big-data-network-connection-background-scie.html" alt="web" width="350" height ="350" />
+<p align="right"> <img src="https://www.fsm.ac.in/blog/wp-content/uploads/2022/07/FUqHEVVUsAAbZB0-1024x580.jpg" alt="ai" width="350" height ="350" />
 
   
 - 🔭 I’m currently working on **My personal Website And some Python Projects**
