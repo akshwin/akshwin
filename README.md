@@ -4,10 +4,11 @@
 <h1 align="center">Hi 👋, I'm Akshwin</h1>
 <h3 align="center">I'm a passionate Frontend Developer and Upcoming Full Stack Data Scientist </h3>
 
-<p align="left"> <img src="https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg" alt="web" width="100" height ="100" /> </p>
+</p>
 - :zap: I'm a CSE Undergrad at Vellore Institute of Technology
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshwin-t-681395219)
-    
+
+<p align="left"> <img src="https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg" alt="web" width="400" height ="400" /> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshwin&label=Profile%20views&color=0e75b6&style=flat" alt="akshwin" /> </p>
 
 
