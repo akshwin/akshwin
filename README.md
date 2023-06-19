@@ -6,9 +6,9 @@
 
 </p>
 - :zap: I'm a CSE Undergrad at Vellore Institute of Technology
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshwin-t-681395219)
+- 📫 How to reach me **https://www.linkedin.com/in/akshwin-t-681395219/**
 
-<p align="left"> <img src="https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg" alt="web" width="400" height ="400" /> 
+ 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshwin&label=Profile%20views&color=0e75b6&style=flat" alt="akshwin" /> </p>
 
 
@@ -16,6 +16,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshwin" alt="akshwin" /></a> </p>
 
+<p align="left"> <img src="https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg" alt="web" width="400" height ="400" />
+
+<p align="right"> <img src="https://www.123rf.com/photo_140426907_ai-machine-learning-hands-of-robot-and-human-touching-on-big-data-network-connection-background-scie.html" alt="web" width="350" height ="350" />
+
+  
 - 🔭 I’m currently working on **My personal Website And some Python Projects**
 
 - 🌱 I’m currently learning **Machine Learning**
