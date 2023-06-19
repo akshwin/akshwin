@@ -6,7 +6,8 @@
 
 </p>
 - :zap: I'm a CSE Undergrad at Vellore Institute of Technology
-- 📫 How to reach me **https://www.linkedin.com/in/akshwin-t-681395219/**
+<br>
+- 📫 How to reach me <a href="https://linkedin.com/in/akswhin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akswhin" height="20" width="20" /></a>
 
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshwin&label=Profile%20views&color=0e75b6&style=flat" alt="akshwin" /> </p>
@@ -16,7 +17,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshwin" alt="akshwin" /></a> </p>
 
-<p align="left"> <img src="https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg" alt="web" width="500" height ="400" /><img src="https://www.fsm.ac.in/blog/wp-content/uploads/2022/07/FUqHEVVUsAAbZB0-1024x580.jpg" alt="ai" width="400" height ="400" />
+<p align="left"> <img src="https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg" alt="web" width="500" height ="400" /><img src="https://www.fsm.ac.in/blog/wp-content/uploads/2022/07/FUqHEVVUsAAbZB0-1024x580.jpg" alt="ai" width="500" height ="400" />
 
   
 - 🔭 I’m currently working on **My personal Website And some Python Projects**
