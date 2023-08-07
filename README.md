@@ -16,8 +16,6 @@
 <p align="center"> <a href="https://twitter.com/akshwin_2003" target="blank"><img src="https://img.shields.io/twitter/follow/akshwin_2003?logo=twitter&style=for-the-badge" alt="akshwin_2003" /></a> </p>
 
 <p align="left"> <img src="https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg" alt="web" width="400" height ="300" /><!----><img src="https://www.fsm.ac.in/blog/wp-content/uploads/2022/07/FUqHEVVUsAAbZB0-1024x580.jpg" alt="ai" width="400" height ="300" />
-
-< !--[![An image of @akshwin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshwin)](https://holopin.io/@akshwin)-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshwin" alt="akshwin" /></a> </p>
 
 - 🔭 I’m currently working on **My personal Website And some Python Projects**
