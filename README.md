@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Akshwin T</h1>
-<h3 align="center">I'm a passionate Frontend Developer and Upcoming Full Stack Data Scientist </h3>
+<h3 align="center">I'm a passionate Full Stack Data Scientist And Java Programmar</h3>
 
 </p>
 - :zap: I'm a CSE Undergrad at Vellore Institute of Technology
