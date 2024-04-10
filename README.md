@@ -1,7 +1,5 @@
 
 
-    <!-- INTRODUCTION -->
-
 <h1 align="center"> Hi , I'm Akshwin T 👋👋</h1>
 
 <h2 align="center">I'm a passionate Data Scientist , AI developer and a Java Programmer </h2>
