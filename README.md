@@ -1,56 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body   >
 
+    <!-- INTRODUCTION -->
 
+<h1 align="center"> Hi , I'm Akshwin T 👋👋</h1>
 
-<h1 align="center">Hi 👋, I'm Akshwin T</h1>
-<h3 align="center">I'm a passionate Full Stack Data Scientist And Java Programmar</h3>
+<h2 align="center">I'm a passionate Data Scientist , AI developer and a Java Programmer </h2>
 
-</p>
-- :zap: I'm a CSE Undergrad at Vellore Institute of Technology
-<br>
-- 📫 How to reach me <a href="https://linkedin.com/in/akswhin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akswhin" height="20" width="20" /></a>
-<br>
- 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshwin&label=Profile%20views&color=0e75b6&style=flat" alt="akshwin" /> </p>
 
 
 <p align="center"> <a href="https://twitter.com/akshwin_2003" target="blank"><img src="https://img.shields.io/twitter/follow/akshwin_2003?logo=twitter&style=for-the-badge" alt="akshwin_2003" /></a> </p>
 
-<p align="left"> <img src="https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg" alt="web" width="400" height ="300" /><!----><img src="https://www.fsm.ac.in/blog/wp-content/uploads/2022/07/FUqHEVVUsAAbZB0-1024x580.jpg" alt="ai" width="400" height ="300" />
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshwin" alt="akshwin" /></a> </p>
-
-- 🔭 I’m currently working on **My personal Website And some Python Projects**
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate on **Projects on Python And Front end web development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/akshwin](https://github.com/akshwin)
-
-- 📝 I regularly write articles on [https://akshwin.substack.com/](https://akshwin.substack.com/)
 
 
-
-<h3 align="left">📱Connect with me:</h3>
-<a href="https://twitter.com/akshwin_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshwin_2003" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akswhin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akswhin" height="30" width="40" /></a>
-<a href="https://kaggle.com/akshwint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akshwint" height="30" width="40" /></a>
-<a href="https://instagram.com/the_akshwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_akshwin" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/akshwint2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akshwint2003" height="30" width="40" /></a>
-</p>
-
-
-<h2 align="left"> 💻 TECHNOLOGY STACK <h2>
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-
-
-<h2 align="left"> 📃My Stats <h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshwin&" alt="akshwin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshwin&show_icons=true&locale=en" alt="akshwin" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshwin&show_icons=true&locale=en&layout=compact" alt="akshwin" /></p>
+<p align="center"> <img src="./images/main.webp" alt="web" width="500" height ="300"/></p>
+<br>
+- 👨‍🎓 I am a CSE Prefinal Year Student at VIT , Vellore.
+<br>
 
 <br>
-</div>
+- 👨‍💻 I am passionate about Data Sciencce , Artificial Intelligence and Programming.
+<br>
+
+<br>
+- 🔭 I’m currently working on **Advanced AI Applications **
+<br>
+
+<br>
+- 🌱 I’m currently learning **Technologies for AI and Data Science **
+<br>
+
+<br>
+- 👯 I’m looking to collaborate on **Projects based on Machine Learning , Artificial Intelligence , Deep Learning  **
+<br>
+
+<br>
+- 👨‍💻 All of my projects are available at [https://github.com/akshwin](https://github.com/akshwin)
+<br>
+
+<!-- CONNECT -->
+
+<h3>📱CONNECT WITH ME  :</h3>
+<a href="https://twitter.com/akshwin_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshwin_2003" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/akswhin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akswhin" height="40" width="40" /></a>
+<a href="https://kaggle.com/akshwint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akshwint" height="40" width="40" /></a>
+<a href="https://instagram.com/the_akshwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_akshwin" height="40" width="4" /></a>
+</p>
+
+<!-- TECH STACK -->
+
+<h3> 💻 TECH STACK <h3>
+
+<img src="./images/java.png" alt="">
+<img src="./images/python.png" alt="">
+<img src="./images/C.png" alt="">
+<img src="./images/c++.png" alt="c++">
+<img src="./images/html.png" alt="">
+<img src="./images/css.png" alt="">
+<img src="./images/js.png" alt="">
+
+
+
+<!--<h3> AL/ML TOOLS AND TECHNOLOGIES </#h3>-->
+<img src="./images/numpy.png" alt="">
+<img src="./images/pandas.png" alt="">
+<img src="./images/matplotlib.png" alt="" height = 45px width="45px">
+<img src="./images/seaborn.png" alt="" height="45px" width="45px">
+<img src="./images/sklearn.png" alt="" height="45px" width="50px">
+<img src="./images/Plotly.png" alt="" height="45px" width="70px">
+<img src="./images/tensorflow.png" alt="" height="45px" width="45px">
+<img src="./images/keras.jpg" alt="" height="45px" width="45px">
+<img src="./images/opencv.png" alt="" height="45px" width="45px">
+<img src="./images/nltk.png" alt="" height="45px" width="70px">
+<img src="./images/SpaCy.png" alt="" height="45px" width="50px">
+<img src="./images/gensim.png" alt="" height="45px" width="50px">
+<!-- <img src="./images/powerbi.png" alt="" height="50px" width="60px"> -->
+
+
+<!--<h5>WEB SCRAPING LIBRARIS </h5>-->
+<img src="./images/requests.png" alt="" height="45px" width="50px">
+<img src="./images/beautifulsoup.webp" alt="" height="45px" width="60px">
+<img src="./images/selenium.png" alt="" height="45px" width="45px">
+<img src="./images/scrapy.jpg" alt="" height="45px" width="45px">
+<img src="./images/streamlit.svg" alt="" height="45px" width="45px">
+<img src="./images/flask.webp" alt="" height="45px" width="45px">
+<img src="./images/aws.png" alt="" height="35px" width="50px">
+<!-- <img src="./images/heroku.webp" alt="" height="45px" width="45px">
+<img src="./images/aws.png" alt="" height="35px" width="50px">
+<img src="./images/azure.png" alt="" height="45px" width="45px"> -->
+
+<!--<h4>WEB DEVELOPMENT TOOLS AND TECHNOLOGIES  </h4>-->
+
+<img src="./images/bootstrap.png" alt="">
+<!-- <img src="./images/jquery.png" alt="" height="45px" width="45px"> -->
+<img src="./images/nodejs.png" alt="" height="45px" width="55px">
+<!-- <img src="./images/express-js.png" alt=""height="45px" width="55px"> -->
+<img src="./images/postman.png" alt=""height="45px" width="45px">
+<!-- <img src="./images/postgresql.png" alt="" height="50px" width="45px">
+<img src="./images/react.png" alt="" height="50px" width="45px"> -->
+
+
+<!--<h4> CLOUD TECHNOLOGIES </h4>-->
+
+
+
+<!--<h4> DATABASES AND RELATED TOOLS</h4>-->
+
+<img src="./images/mysql.png" alt="" height="45px" width="45px">
+<img src="./images/oracle.webp" alt="" height="45px" width="45px">
+<img src="./images/workbench.png" alt="" height="45px" width="45px">
+
+<!--<h4> OTHER TOOLS</h4>-->
+<img src="./images/git.png" alt="" height="45px" width="45px">
+<img src="./images/linux.jpg" alt="" height="45px" width="45px">
+<img src="./images/anaconda.png" alt="" height="45px" width="45px">
+<img src="./images/vscode.jpg" alt="" height="45px" width="45px">
+<img src="./images/overleaf.png" alt="" height="45px" width="45px">
+<img src="./images/ubuntu.png" alt="" height="45px" width="45px">
+<img src="./images/kali linux.png" alt="" height="50px" width="60px">
+
+
+<!-- OPEN SOURCE CONTRIBUTION -->
+<h2>📔 HACKTOBER FEAST BADGES  :  </h2>
+<img src="https://holopin.me/akshwin" alt="" height=" 200px" weight = 200px  >
+    
+
+
+<!-- STATS -->
+    <h2 align="left"> 📃MY STATS  <h2>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshwin&" alt="akshwin" /></p>
+    
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshwin&show_icons=true&locale=en" alt="akshwin" /></p>
+    
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshwin&show_icons=true&locale=en&layout=compact" alt="akshwin" /></p>
+    
+    <br>
+    </div>
+
+</body>
+</html>
