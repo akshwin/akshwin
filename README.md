@@ -30,7 +30,7 @@
 
 ### 💻 TECH STACK
 
-![Java](./images/java.png)
+![Java](/images/java.png)
 ![Python](./images/python.png)
 ![C](./images/C.png)
 ![C++](./images/c++.png)
