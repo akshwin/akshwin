@@ -23,14 +23,15 @@
 
 ### 📱 CONNECT WITH ME:
 
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/akshwin_2003)
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/akswhin)
-[![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://kaggle.com/akshwint)
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/the_akshwin)
+<a href="https://twitter.com/akshwin_2003" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshwin_2003" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/akswhin" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akswhin" height="30" width="30" /></a>
+<a href="https://kaggle.com/akshwint" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akshwint" height="30" width="30" /></a>
+<a href="https://instagram.com/the_akshwin" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_akshwin" height="30" width="30" /></a>
+
 
 ### 💻 TECH STACK
 
-![Java](/images/java.png)
+![Java](java.png)
 ![Python](./images/python.png)
 ![C](./images/C.png)
 ![C++](./images/c++.png)
