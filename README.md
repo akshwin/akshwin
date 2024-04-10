@@ -10,10 +10,11 @@
   <a href="https://twitter.com/akshwin_2003" target="blank"><img src="https://img.shields.io/twitter/follow/akshwin_2003?logo=twitter&style=for-the-badge" alt="akshwin_2003" /></a>
 </p>
 
+  <h1 align = 'center'>Infusing Human Intelligence with Artificial Intelligence </h1>
 <p align="center">
   <img src="https://engineering.fb.com/wp-content/uploads/2016/12/grid-AI.jpg" alt="web" width="500" height="300"/>
   
-  <h1 align = 'center'>Infusing Human Intelligence with Artificial Intelligence </h1>
+
 </p>
 
 - 👨‍🎓 I am a CS Prefinal Year Student at VIT, Vellore.
@@ -41,7 +42,7 @@
 
 ### 💻 TECH STACK
 
-![Java](java.png)
+<!-- ![Java](./java.pngjava.png | width=40px )
 ![Python](python.png)
 ![C](C.png)
 ![C++](c++.png)
@@ -84,7 +85,7 @@
 ![VSCode](vscode.jpg)
 ![Overleaf](overleaf.png)
 ![Ubuntu](ubuntu.png)
-![Kali Linux](kali%20linux.png)
+![Kali Linux](kali%20linux.png) -->
 
 ### 📔 HACKTOBER FEAST BADGES:
 
