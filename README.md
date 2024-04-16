@@ -6,11 +6,9 @@
   <a href="https://github.com/akshwin?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/akshwin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshwin&style=for-the-badge&color=0a2647"> </p>
-
-<h1 align = 'center'>Infusing Human Intelligence with Artificial Intelligence </h1>
   
 <p align="center">
-  <img src="https://engineering.fb.com/wp-content/uploads/2016/12/grid-AI.jpg" alt="web" width="600" height="400"/>
+  <img src="https://engineering.fb.com/wp-content/uploads/2016/12/grid-AI.jpg" alt="web" width="550" height="350"/>
 
 ## 🧑‍🎓 About Me :
 
@@ -20,9 +18,7 @@
 - 🌱 I’m currently learning **Technologies in the field of  AI and Data Science.**
 - 👯 I’m looking to collaborate on **Projects based on Machine Learning, Artificial Intelligence, Deep Learning and Computer Vision.**
 - 🌱 I’m currently learning **Technologies in the field of  AI and Data Science.**
-- 💡 Ask me about **Human Neurons or AI Neurons.**
-- 👨‍💻 All of my projects are available at <a href="https://github.com/akshwin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-
+- 💡 Ask me about **Human Neurons or AI Neurons.
 
 ## 🌐 Socials : 
 <div >
