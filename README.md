@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Technologies in the field of  AI and Data Science.**
 - 👯 I’m looking to collaborate on **Projects based on Machine Learning, Artificial Intelligence, Deep Learning and Computer Vision.**
 - 🌱 I’m currently learning **Technologies in the field of  AI and Data Science.**
-- 💡 Ask me about **Human Neurons or AI Neurons.
+- 💡 Ask me about **Human Neurons or AI Neurons.**
 
 ## 🌐 Socials : 
 <div >
