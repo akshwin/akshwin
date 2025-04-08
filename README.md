@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshwin&style=for-the-badge&color=0a2647"> </p>
   
 <p align="center">
-  <img src="https://images.theconversation.com/files/642582/original/file-20250115-15-vekshv.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C2683%2C1786&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip" alt="web" width="550" height="350"/>
+  <img src="https://www.nowsta.com/static/uploads/2023/07/AI-Arm-in-space-scaled.jpg" alt="web" width="550" height="350"/>
 
 ## 🧑‍🎓 About Me :
 
