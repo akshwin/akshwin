@@ -41,7 +41,7 @@
 <div align='center'>
 <h3>Programming Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,django,c,cpp,py,java,aws,eclipse,github,stremalit,linux,mysql,powershell,pytorch,r,sqlite,vscode,visualstudio,wordpress&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,django,c,cpp,py,java,aws,eclipse,github,linux,mysql,powershell,pytorch,r,sqlite,vscode,visualstudio,wordpress&perline=16)](https://skillicons.dev)
 
 </div>
 
