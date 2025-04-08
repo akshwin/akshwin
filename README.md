@@ -12,7 +12,7 @@
 
 ## 🧑‍🎓 About Me :
 
-- 👨‍🎓 I'm CS Prefinal Year Student at VIT, Vellore.
+- 👨‍🎓 I'm CS Final Year Student at VIT, Vellore.
 - 👨‍💻 I'm passionate about Data Science, Artificial Intelligence, and Competitive Coding.
 - 🔭 I’m currently working on **Advanced AI Applications.**
 - 🌱 I’m currently learning **Technologies in the field of  AI and Data Science.**
