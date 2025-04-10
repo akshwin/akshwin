@@ -44,27 +44,25 @@
 <h3>Programming Languages and Tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,django,c,cpp,py,java,aws,eclipse,github,linux,mysql,powershell,pytorch,r,sqlite,vscode,visualstudio,wordpress&perline=16)](https://skillicons.dev)
-
 <img src="./anaconda.png" alt="anaconda" width="40" height="40"/> </a>
 <img src="./aws.png" alt="aws" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<img src="./azure.png" alt="azure" width="40" height="40"/> </a>
+<img src="./beautifulsoup.webp" alt="beautifulsoup" width="40" height="40"/> </a>
+<img src="./bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
+<img src="./c++.png" alt="c++" width="40" height="40"/> </a>
+<img src="./C.png" alt="c" width="40" height="40"/> </a>
+<img src="https://www" alt="tensorflow" width="40" height="40"/> </a>
+<img src="https://www" alt="tensorflow" width="40" height="40"/> </a>
+<img src="https://www" alt="tensorflow" width="40" height="40"/> </a>
+<img src="https://www" alt="tensorflow" width="40" height="40"/> </a>
+<img src="https://www" alt="tensorflow" width="40" height="40"/> </a>
+<img src="https://www" alt="tensorflow" width="40" height="40"/> </a>
+<img src="https://www" alt="tensorflow" width="40" height="40"/> </a>
 </div>
 
 ### 📔 Hacktoberfest Badges :
 
 ![Hacktober Feast Badges](https://holopin.me/akshwin)
-
 
 ## 📈  Stats : 
 <table align="center">
@@ -72,7 +70,6 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshwin&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
   </tr> 
 </table>
-
 
 <table align="center">
   <tr>
@@ -85,7 +82,3 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshwin&theme=monokai&show_icons=true&locale=en&layout=compact"  display=block width=100% height=auto  alt="1" ></td>
   </tr> 
 </table>
-
-
-
-
