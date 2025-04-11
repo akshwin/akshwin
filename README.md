@@ -44,20 +44,36 @@
 <h3>Programming Languages and Tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,django,c,cpp,py,java,aws,eclipse,github,linux,mysql,powershell,pytorch,r,sqlite,vscode,visualstudio,wordpress&perline=16)](https://skillicons.dev)
-<img src="./anaconda.png" alt="anaconda" width="40" height="40"/> </a>
-<img src="./aws.png" alt="aws" width="40" height="40"/> </a>
-<img src="./azure.png" alt="azure" width="40" height="40"/> </a>
-<img src="./beautifulsoup.webp" alt="beautifulsoup" width="40" height="40"/> </a>
-<img src="./bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
-<img src="./c++.png" alt="c++" width="40" height="40"/> </a>
-<img src="./C.png" alt="c" width="40" height="40"/> </a>
-<img src="https://www" alt="tensorflow" width="40" height="40"/> </a>
-<img src="https://www" alt="tensorflow" width="40" height="40"/> </a>
-<img src="https://www" alt="tensorflow" width="40" height="40"/> </a>
-<img src="https://www" alt="tensorflow" width="40" height="40"/> </a>
-<img src="https://www" alt="tensorflow" width="40" height="40"/> </a>
-<img src="https://www" alt="tensorflow" width="40" height="40"/> </a>
-<img src="https://www" alt="tensorflow" width="40" height="40"/> </a>
+<img src="./anaconda.png" alt="anaconda" width="50" height="50"/> </a>
+<img src="./aws.png" alt="aws" width="50" height="50"/> </a>
+<img src="./azure.png" alt="azure" width="50" height="50"/> </a>
+<img src="./beautifulsoup.webp" alt="beautifulsoup" width="50" height="50"/> </a>
+<img src="./bootstrap.png" alt="bootstrap" width="50" height="50"/> </a>
+<img src="./c++.png" alt="c++" width="50" height="50"/> </a>
+<img src="./C.png" alt="c" width="50" height="50"/> </a>
+<img src="./css.png" alt="css" width="50" height="50"/> </a>
+<img src="./express-js.png" alt="express-js" width="50" height="50"/> </a>
+<img src="./flask.webp" alt="flask" width="50" height="50"/> </a>
+<img src="./gensim.png" alt="genisim" width="50" height="50"/> </a>
+<img src="./git.png" alt="git" width="50" height="50"/> </a>
+<img src="./GitHub.png" alt="github" width="50" height="50"/> </a>
+<img src="./heroku.webp" alt="heroku" width="50" height="50"/> </a>
+<img src="./html.png" alt="html" width="50" height="50"/> </a>
+<img src="./java.png" alt="java" width="50" height="50"/> </a>
+<img src="./jquery.png" alt="c" width="50" height="50"/> </a>
+<img src="./js.png" alt="c" width="50" height="50"/> </a>
+<img src="./kali linux.png" alt="c" width="50" height="50"/> </a>
+<img src="./keras.jpg" alt="c" width="50" height="50"/> </a>
+<img src="./matplotlib.png" alt="c" width="50" height="50"/> </a>
+<img src="./mongodb.png" alt="c" width="50" height="50"/> </a>
+<img src="./mongoose.png" alt="c" width="50" height="50"/> </a>
+<img src="./mysql.png" alt="c" width="50" height="50"/> </a>
+<img src="./nltk.png" alt="c" width="50" height="50"/> </a>
+<img src="./nodejs.png" alt="c" width="50" height="50"/> </a>
+<img src="./numpy.png" alt="c" width="50" height="50"/> </a>
+<img src="./opencv.png" alt="c" width="50" height="50"/> </a>
+<img src="./oracle.webp" alt="c" width="50" height="50"/> </a>
+<img src="./overleaf.png" alt="c" width="50" height="50"/> </a>
 </div>
 
 ### 📔 Hacktoberfest Badges :
