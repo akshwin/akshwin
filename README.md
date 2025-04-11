@@ -43,8 +43,7 @@
 <div align='center'>
 <h3>Programming Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,django,c,cpp,py,java,aws,eclipse,github,linux,mysql,powershell,pytorch,r,sqlite,vscode&perline=16)](https://skillicons.dev)
-<img src="./anaconda.png" alt="anaconda" width="50" height="50"/> </a>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,django,c,cpp,py,java,aws,eclipse,github,linux,mysql,powershell,r,vscode&perline=16)](https://skillicons.dev)<img src="./anaconda.png" alt="anaconda" width="50" height="50"/> </a>
 <img src="./azure.png" alt="azure" width="50" height="50"/> </a>
 <img src="./css.png" alt="css" width="50" height="50"/> </a>
 <img src="./express-js.png" alt="express-js" width="50" height="50"/> </a>
