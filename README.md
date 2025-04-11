@@ -52,10 +52,10 @@
 <img src="./C.png" alt="c" width="50" height="50"/> </a>
 <img src="./css.png" alt="css" width="50" height="50"/> </a>
 <img src="./express-js.png" alt="express-js" width="50" height="50"/> </a>
-<img src="./flask.webp" alt="flask" width="50" height="50"/> </a>
+<img src="./flask.png" alt="flask" width="50" height="50"/> </a>
 <img src="./gensim.png" alt="genisim" width="50" height="50"/> </a>
 <img src="./git.png" alt="git" width="50" height="50"/> </a>
-<img src="./heroku.webp" alt="heroku" width="50" height="50"/> </a>
+<img src="./heroku.png" alt="heroku" width="50" height="50"/> </a>
 <img src="./html.png" alt="html" width="50" height="50"/> </a>
 <img src="./java.png" alt="java" width="50" height="50"/> </a>
 <img src="./jquery.png" alt="c" width="50" height="50"/> </a>
@@ -66,7 +66,7 @@
 <img src="./nodejs.png" alt="c" width="50" height="50"/> </a>
 <img src="./numpy.png" alt="c" width="50" height="50"/> </a>
 <img src="./opencv.png" alt="c" width="50" height="50"/> </a>
-<img src="./oracle.webp" alt="c" width="50" height="50"/> </a>
+<img src="./oracle.png" alt="c" width="50" height="50"/> </a>
 <img src="./overleaf.png" alt="c" width="50" height="50"/> </a>
 
 </div>
