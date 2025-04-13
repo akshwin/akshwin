@@ -35,7 +35,6 @@
 <div align='center'>
 <h3 align="center">Packages and Libraries (For ML, DL and CV)</h3>
 <p align="center"><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<img src="./" alt="tensorflow" width="40" height="40"/> </a>
 
 </p>
 </div>
@@ -43,9 +42,10 @@
 <div align='center'>
 <h3>Programming Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,django,c,cpp,py,java,aws,eclipse,github,linux,mysql,powershell,r&perline=16)](https://skillicons.dev)<img src="./anaconda.png" alt="anaconda" width="50" height="50"/> </a>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,django,c,cpp,py,java,aws,eclipse,github,linux,mysql,powershell,r&perline=16)](https://skillicons.dev)
+
+<img src="./anaconda.png" alt="anaconda" width="50" height="50"/> </a>
 <img src="./azure.png" alt="azure" width="50" height="50"/> </a>
-<img src="./css.png" alt="css" width="50" height="50"/> </a>
 <img src="./express-js.png" alt="express-js" width="50" height="50"/> </a>
 <img src="./flask.png" alt="flask" width="50" height="50"/> </a>
 <img src="./git.png" alt="git" width="50" height="50"/> </a>
@@ -58,7 +58,6 @@
 <img src="./matplotlib.png" alt="c" width="50" height="50"/> </a>
 <img src="./nodejs.png" alt="c" width="50" height="50"/> </a>
 <img src="./numpy.png" alt="c" width="50" height="50"/> </a>
-<img src="./opencv.png" alt="c" width="50" height="50"/> </a>
 <img src="./oracle.png" alt="c" width="50" height="50"/> </a>
 <img src="./overleaf.png" alt="c" width="50" height="50"/> </a>
 <img src="./vscode.jpg" alt="c" width="50" height="50"/> </a>
