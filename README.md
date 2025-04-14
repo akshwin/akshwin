@@ -67,7 +67,16 @@
 <img src="./python.png" alt="c" width="50" height="50"/> </a>
 <img src="./Plotly.png" alt="c" width="50" height="50"/> </a>
 <img src="./react.png" alt="c" width="50" height="50"/> </a>
-<img src="./requests.png" alt="c" width="50" height="50"/> </a>
+<img src="./scrapy.jpg.png" alt="c" width="50" height="50"/> </a>
+<img src="./seaborn.png.png" alt="c" width="50" height="50"/> </a>
+<img src="./selenium.png.png" alt="c" width="50" height="50"/> </a>
+<img src="./sklearn.png.png" alt="c" width="50" height="50"/> </a>
+<img src="./streamlit.svg.png" alt="c" width="50" height="50"/> </a>
+<img src="./SpaCy.png.png" alt="c" width="50" height="50"/> </a>
+<img src="./tensorflow.png.png" alt="c" width="50" height="50"/> </a>
+<img src="./ubuntu.png.png" alt="c" width="50" height="50"/> </a>
+<img src="./vscode.jpg" alt="c" width="50" height="50"/> </a>
+<img src="./workbench.png" alt="c" width="50" height="50"/> </a>
 
 </div>
 
