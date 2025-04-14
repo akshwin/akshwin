@@ -60,7 +60,15 @@
 <img src="./numpy.png" alt="c" width="50" height="50"/> </a>
 <img src="./oracle.png" alt="c" width="50" height="50"/> </a>
 <img src="./overleaf.png" alt="c" width="50" height="50"/> </a>
-<img src="./vscode.jpg" alt="c" width="50" height="50"/> </a>
+<img src="./pandas.png" alt="c" width="50" height="50"/> </a>
+<img src="./postgresql.png" alt="c" width="50" height="50"/> </a>
+<img src="./postman.png" alt="c" width="50" height="50"/> </a>
+<img src="./powerbi.png" alt="c" width="50" height="50"/> </a>
+<img src="./python.png" alt="c" width="50" height="50"/> </a>
+<img src="./Plotly.png" alt="c" width="50" height="50"/> </a>
+<img src="./react.png" alt="c" width="50" height="50"/> </a>
+<img src="./requests.png" alt="c" width="50" height="50"/> </a>
+
 </div>
 
 ### 📔 Hacktoberfest Badges :
