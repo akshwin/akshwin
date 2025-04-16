@@ -69,7 +69,7 @@
 <img src="./seaborn.png" alt="c" width="50" height="50"/> </a>
 <img src="./selenium.png" alt="c" width="50" height="50"/> </a>
 <img src="./sklearn.png" alt="c" width="50" height="50"/> </a>
-<img src="./streamlitpng" alt="c" width="50" height="50"/> </a>
+<img src="./streamlit.png" alt="c" width="50" height="50"/> </a>
 <img src="./SpaCy.png" alt="c" width="50" height="50"/> </a>
 <img src="./ubuntu.png" alt="c" width="50" height="50"/> </a>
 <img src="./vscode.jpg" alt="c" width="50" height="50"/> </a>
