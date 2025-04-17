@@ -13,11 +13,10 @@
 ## 🧑‍🎓 About Me :
 
 - 👨‍🎓 I'm CS Final Year Student at VIT, Vellore.
-- 👨‍💻 I'm passionate about Data Science, Artificial Intelligence, and Competitive Coding.
+- 👨‍💻 I'm passionate about Data Science, Artificial Intelligence, and Machine Learning.
 - 🔭 I’m currently working on **Advanced AI Applications.**
 - 🌱 I’m currently learning **Technologies in the field of  AI and Data Science.**
 - 👯 I’m looking to collaborate on **Projects based on Machine Learning, Artificial Intelligence, Deep Learning and Computer Vision.**
-- 🌱 I’m currently learning **Technologies in the field of  AI and Data Science.**
 - 💡 Ask me about **Human Neurons or AI Neurons.**
 
 ## 🌐 Socials : 
