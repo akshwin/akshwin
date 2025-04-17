@@ -43,34 +43,34 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,django,c,cpp,py,java,aws,eclipse,github,linux,mysql,powershell,r&perline=16)](https://skillicons.dev)
 
-<img src="./anaconda.png" alt="anaconda" width="50" height="50"/> </a>
-<img src="./azure.png" alt="azure" width="50" height="50"/> </a>
-<img src="./express-js.png" alt="express-js" width="50" height="50"/> </a>
-<img src="./flask.png" alt="flask" width="50" height="50"/> </a>
-<img src="./git.png" alt="git" width="50" height="50"/> </a>
-<img src="./heroku.png" alt="heroku" width="50" height="50"/> </a>
-<img src="./java.png" alt="java" width="50" height="50"/> </a>
-<img src="./jquery.png" alt="c" width="50" height="50"/> </a>
-<img src="./js.png" alt="c" width="50" height="50"/> </a>
-<img src="./kali linux.png" alt="c" width="50" height="50"/> </a>
-<img src="./keras.jpg" alt="c" width="50" height="50"/> </a>
-<img src="./matplotlib.png" alt="c" width="50" height="50"/> </a>
-<img src="./nodejs.png" alt="c" width="50" height="50"/> </a>
-<img src="./numpy.png" alt="c" width="50" height="50"/> </a>
-<img src="./oracle.png" alt="c" width="50" height="50"/> </a>
-<img src="./overleaf.png" alt="c" width="50" height="50"/> </a>
-<img src="./powerbi.png" alt="c" width="50" height="50"/> </a>
-<img src="./python.png" alt="c" width="50" height="50"/> </a>
-<img src="./Plotly.png" alt="c" width="50" height="50"/> </a>
-<img src="./react.png" alt="c" width="50" height="50"/> </a>
-<img src="./scrapy.png" alt="c" width="50" height="50"/> </a>
-<img src="./seaborn.png" alt="c" width="50" height="50"/> </a>
-<img src="./selenium.png" alt="c" width="50" height="50"/> </a>
-<img src="./streamlit.png" alt="c" width="50" height="50"/> </a>
-<img src="./SpaCy.png" alt="c" width="50" height="50"/> </a>
-<img src="./ubuntu.png" alt="c" width="50" height="50"/> </a>
-<img src="./vscode.jpg" alt="c" width="50" height="50"/> </a>
-<img src="./workbench.png" alt="c" width="50" height="50"/> </a>
+<img src="./anaconda.png" alt="anaconda" width="40" height="40"/> </a>
+<img src="./azure.png" alt="azure" width="40" height="40"/> </a>
+<img src="./express-js.png" alt="express-js" width="40" height="40"/> </a>
+<img src="./flask.png" alt="flask" width="40" height="40"/> </a>
+<img src="./git.png" alt="git" width="40" height="40"/> </a>
+<img src="./heroku.png" alt="heroku" width="40" height="40"/> </a>
+<img src="./java.png" alt="java" width="40" height="40"/> </a>
+<img src="./jquery.png" alt="c" width="40" height="40"/> </a>
+<img src="./js.png" alt="c" width="40" height="40"/> </a>
+<img src="./kali linux.png" alt="c" width="40" height="40"/> </a>
+<img src="./keras.jpg" alt="c" width="40" height="40"/> </a>
+<img src="./matplotlib.png" alt="c" width="40" height="40"/> </a>
+<img src="./nodejs.png" alt="c" width="40" height="40"/> </a>
+<img src="./numpy.png" alt="c" width="40" height="40"/> </a>
+<img src="./oracle.png" alt="c" width="40" height="40"/> </a>
+<img src="./overleaf.png" alt="c" width="0" height="40"/> </a>
+<img src="./powerbi.png" alt="c" width="40" height="40"/> </a>
+<img src="./python.png" alt="c" width="40" height="40"/> </a>
+<img src="./Plotly.png" alt="c" width="40" height="40"/> </a>
+<img src="./react.png" alt="c" width="40" height="40"/> </a>
+<img src="./scrapy.png" alt="c" width="40" height="40"/> </a>
+<img src="./seaborn.png" alt="c" width="40" height="40"/> </a>
+<img src="./selenium.png" alt="c" width="40" height="40"/> </a>
+<img src="./streamlit.png" alt="c" width="40" height="40"/> </a>
+<img src="./SpaCy.png" alt="c" width="40" height="40"/> </a>
+<img src="./ubuntu.png" alt="c" width="40" height="40"/> </a>
+<img src="./vscode.jpg" alt="c" width="40" height="40"/> </a>
+<img src="./workbench.png" alt="c" width="40" height="40"/> </a>
 
 </div>
 
