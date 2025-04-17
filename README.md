@@ -60,7 +60,6 @@
 <img src="./numpy.png" alt="c" width="50" height="50"/> </a>
 <img src="./oracle.png" alt="c" width="50" height="50"/> </a>
 <img src="./overleaf.png" alt="c" width="50" height="50"/> </a>
-<img src="./pandas.png" alt="c" width="50" height="50"/> </a>
 <img src="./powerbi.png" alt="c" width="50" height="50"/> </a>
 <img src="./python.png" alt="c" width="50" height="50"/> </a>
 <img src="./Plotly.png" alt="c" width="50" height="50"/> </a>
@@ -68,7 +67,6 @@
 <img src="./scrapy.png" alt="c" width="50" height="50"/> </a>
 <img src="./seaborn.png" alt="c" width="50" height="50"/> </a>
 <img src="./selenium.png" alt="c" width="50" height="50"/> </a>
-<img src="./sklearn.png" alt="c" width="50" height="50"/> </a>
 <img src="./streamlit.png" alt="c" width="50" height="50"/> </a>
 <img src="./SpaCy.png" alt="c" width="50" height="50"/> </a>
 <img src="./ubuntu.png" alt="c" width="50" height="50"/> </a>
