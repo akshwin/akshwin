@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshwin&style=for-the-badge&color=0a2647"> </p>
   
 <p align="center">
-  <img src="https://www.nowsta.com/static/uploads/2023/07/AI-Arm-in-space-scaled.jpg" alt="web" width="550" height="350"/>
+  <img src="https://www.nowsta.com/static/uploads/2023/07/AI-Arm-in-space-scaled.jpg" alt="web" width="500" height="300"/>
 
 ## 🧑‍🎓 About Me :
 
