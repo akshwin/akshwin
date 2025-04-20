@@ -38,7 +38,8 @@
 </p>
 </div>
 
-<div align='center'>
+<div>
+
 <h3>Programming Languages and Tools</h3>
 
 
@@ -54,8 +55,6 @@
 <img src="./eclipse.png" alt="anaconda" width="45" height="45"/> </a>
 <img src="./GitHub.png" alt="anaconda" width="45" height="45"/> </a>
 <img src="./linux.webp" alt="anaconda" width="45" height="45"/> </a>
-
-
 <img src="./anaconda.png" alt="anaconda" width="45" height="45"/> </a>
 <img src="./azure.png" alt="azure" width="45" height="45"/> </a>
 <img src="./express-js.png" alt="express-js" width="45" height="45"/> </a>
