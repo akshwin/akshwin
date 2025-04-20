@@ -38,6 +38,7 @@
 </p>
 </div>
 
+<div align = 'center'>
 <h3>Programming Languages and Tools</h3>
 
 <img src="./html.png" alt="anaconda" width="45" height="45"/> </a>
@@ -81,7 +82,7 @@
 <img src="./vscode.jpg" alt="c" width="45" height="45"/> </a>
 <img src="./workbench.png" alt="c" width="45" height="45"/> </a>
 
-
+</div>
 ### 📔 Hacktoberfest Badges :
 
 ![Hacktober Feast Badges](https://holopin.me/akshwin)
