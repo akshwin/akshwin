@@ -41,7 +41,20 @@
 <div align='center'>
 <h3>Programming Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,django,c,cpp,py,java,aws,eclipse,github,linux,mysql,powershell,r&perline=16)](https://skillicons.dev)
+
+<img src="./html.png" alt="anaconda" width="45" height="45"/> </a>
+<img src="./css.png" alt="anaconda" width="45" height="45"/> </a>
+<img src="./js.png" alt="anaconda" width="45" height="45"/> </a>
+<img src="./dj.svg" alt="anaconda" width="45" height="45"/> </a>
+<img src="./C.png" alt="anaconda" width="45" height="45"/> </a>
+<img src="./c++.png" alt="anaconda" width="45" height="45"/> </a>
+<img src="./python.png" alt="anaconda" width="45" height="45"/> </a>
+<img src="./java.png" alt="anaconda" width="45" height="45"/> </a>
+<img src="./aws.png" alt="anaconda" width="45" height="45"/> </a>
+<img src="./eclipse.png" alt="anaconda" width="45" height="45"/> </a>
+<img src="./GitHub.png" alt="anaconda" width="45" height="45"/> </a>
+<img src="./linux.webp" alt="anaconda" width="45" height="45"/> </a>
+
 
 <img src="./anaconda.png" alt="anaconda" width="45" height="45"/> </a>
 <img src="./azure.png" alt="azure" width="45" height="45"/> </a>
