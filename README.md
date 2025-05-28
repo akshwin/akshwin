@@ -8,11 +8,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshwin&style=for-the-badge&color=0a2647"> </p>
   
 <p align="center">
-  <img src="https://www.nowsta.com/static/uploads/2023/07/AI-Arm-in-space-scaled.jpg" alt="web" width="500" height="300"/>
+  <img src="https://www.solidsystems.co.za/wp-content/uploads/2024/03/solid-systems-the-delicate-balance-between-ai-and-privacy-in-2024-and-beyond-1-1536x1029.jpg" alt="web" width="500" height="300"/>
 
 ## 🧑‍🎓 About Me :
 
-- 👨‍🎓 I'm CS Final Year Student at VIT, Vellore.
+- 👨‍🎓 I'm Btech Graduate from VIT, Vellore.
 - 👨‍💻 I'm passionate about Data Science, Artificial Intelligence, and Machine Learning.
 - 🔭 I’m currently working on **Advanced AI Applications.**
 - 🌱 I’m currently learning **Technologies in the field of  AI and Data Science.**
