@@ -1,5 +1,5 @@
 <h1 align = 'center'>Hi , I'm Akshwin T 👋👋</h1>
-<h2 align = 'center'> Data Science Enthusiast | AI Researcher | ML Practitioner </h2>
+<h2 align = 'center'> CS Graduate from VIT Vellore 🎓 | AI/ML Researcher | Kaggle Contributor | Data Science Enthusiast | AWS Certified Cloud Practitioner </h2>
 <p align="center"> 
   <a href="https://github.com/akshwin?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/akshwin?color=FFBF00&style=for-the-badge&labelColor=ff5e00&logo=star"/></a>
@@ -12,17 +12,16 @@
 
 ## 🧑‍🎓 About Me :
 
-- 👨‍🎓 I'm Btech Graduate from VIT, Vellore.
+- 👨‍🎓 I'm a BTech Graduate from VIT, Vellore.
 - 👨‍💻 I'm passionate about Data Science, Artificial Intelligence, and Machine Learning.
 - 🔭 I’m currently working on **Advanced AI Applications.**
 - 🌱 I’m currently learning **Technologies in the field of  AI and Data Science.**
 - 👯 I’m looking to collaborate on **Projects based on Machine Learning, Artificial Intelligence, Deep Learning and Computer Vision.**
-- 💡 Ask me about **Human Neurons or AI Neurons.**
 
 ## 🌐 Socials : 
 <div >
   <a href="https://linkedin.com/in/akshwin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/akshwin_2003"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/the_akshwin"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://leetcode.com/akshwin/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
   <a href="https://github.com/akshwin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
