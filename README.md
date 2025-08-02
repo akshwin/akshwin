@@ -1,5 +1,5 @@
 <h1 align = 'center'>Hi , I'm Akshwin T 👋👋</h1>
-<h2 align = 'center'> CS Graduate from VIT Vellore 🎓 | AI/ML Researcher | Kaggle Contributor  </h2>
+<h2 align = 'center'> AI/ML Researcher | CS Graduate – VIT Vellore 🎓 | Founder @ OpenXHealth | Kaggle Contributor |  </h2>
 <p align="center"> 
   <a href="https://github.com/akshwin?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/akshwin?color=FFBF00&style=for-the-badge&labelColor=ff5e00&logo=star"/></a>
