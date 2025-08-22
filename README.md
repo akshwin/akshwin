@@ -12,7 +12,7 @@
 
 ## 🧑‍🎓 About Me :
 
-- 👨‍🎓 I'm a BTech Graduate from VIT, Vellore.
+- 👨‍🎓 I'm a R & D Engineer and a BTech Graduate from VIT, Vellore.
 - 👨‍💻 I'm passionate about Data Science, Artificial Intelligence, and Machine Learning.
 - 🔭 I’m currently working on **Advanced AI Applications.**
 - 🌱 I’m currently learning **Technologies in the field of  AI and Data Science.**
