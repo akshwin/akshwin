@@ -12,10 +12,10 @@
 
 ## 🧑‍🎓 About Me :
 
-- 👨‍🎓 I'm a R&D Engineer and a CS Graduate from VIT, Vellore.
-- 👨‍💻 I'm passionate about Data Science, Artificial Intelligence, and Machine Learning.
-- 🔭 I’m currently working on **Advanced Generative AI applications **
-- 🌱 I’m currently learning **Technologies in the field of  Advanced Artificial Intelligence.**
+- 👨‍🎓 I'm a **R&D Engineer** and a CS Graduate from VIT, Vellore.
+- 👨‍💻 I'm passionate about **Artificial Intelligence**, **Machine Learning**, **Generative AI** and **Agentic AI**.
+- 🔭 I’m currently working on **Advanced Generative AI applications**
+- 🌱 I’m currently learning **Generative AI and Agentic A.**
 - 👯 I’m looking to collaborate on **Projects based on Machine Learning, Artificial Intelligence, Deep Learning and Computer Vision.**
 
 ## 🌐 Socials : 
