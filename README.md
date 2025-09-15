@@ -1,4 +1,4 @@
-<h1 align = 'center'>Hi , I'm Akshwin T 👋👋</h1>
+<h1 align = 'center'>Hi , I'm Akshwin T 👋</h1>
 <h2 align = 'center'> R&D Engineer (AI/ML) @ Intain| AI/ML Researcher | CS Graduate – VIT Vellore 🎓 | Founder @ OpenXHealth | </h2>
 <p align="center"> 
   <a href="https://github.com/akshwin?tab=repositories&sort=stargazers">
