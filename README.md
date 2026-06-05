@@ -99,9 +99,3 @@
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=akshwin&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
   </tr> 
 </table>
-
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshwin&theme=monokai&show_icons=true&locale=en&layout=compact"  display=block width=100% height=auto  alt="1" ></td>
-  </tr> 
-</table>
