@@ -82,7 +82,8 @@
 <img src="./workbench.png" alt="c" width="45" height="45"/> </a>
 
 </div>
-### 📔 Hacktoberfest Badges :
+
+## 📔 Hacktoberfest Badges :
 
 ![Hacktober Feast Badges](https://holopin.me/akshwin)
 
