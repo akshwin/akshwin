@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshwin&style=for-the-badge&color=0a2647"> </p>
   
 <p align="center">
-  <img src="https://www.solidsystems.co.za/wp-content/uploads/2024/03/solid-systems-the-delicate-balance-between-ai-and-privacy-in-2024-and-beyond-1-1536x1029.jpg" alt="web" width="500" height="300"/>
+  <img src="https://stock.adobe.com/search?k=ai+human" alt="web" width="500" height="300"/>
 
 ## 🧑‍🎓 About Me :
 
