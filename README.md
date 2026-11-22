@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshwin&style=for-the-badge&color=0a2647"> </p>
   
 <p align="center">
-  <img src="https://stock.adobe.com/search?k=ai+human" alt="web" width="500" height="300"/>
+  <img src="https://imgs.search.brave.com/7i97rXiaLbDiv_tW0fnbPGDsslClm-DZY782SbEuU-4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/bWFnbmlmaWMuY29t/L2ZyZWUtcGhvdG8v/aHVtYW4tYWktdG91/Y2gtY29ubmVjdGlv/bi10ZWNobm9sb2d5/LWlubm92YXRpb25f/MjMtMjE1MjAwMDg2/Mi5qcGc_c2VtdD1h/aXNfaHlicmlkJnc9/NzQwJnE9ODA" alt="web" width="500" height="300"/>
 
 ## 🧑‍🎓 About Me :
 
